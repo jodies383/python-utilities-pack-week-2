@@ -1,0 +1,6 @@
+{
+  "downloads_dir": "../downloads",
+  "source_log": "../system.log",
+  "app_log": "../logs/app.log",
+  "log_level": "INFO"
+}
